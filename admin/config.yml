@@ -22,3 +22,4 @@ collections:
       - {label: "Category", name: "category", widget: "string", default: "jekyll"}
       - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+ 
