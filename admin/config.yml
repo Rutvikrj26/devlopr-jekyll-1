@@ -1,6 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: Rutvikrj26/devlopr-jekyll-1
   branch: master
+  site_domain: rutvik-solanki.netlify.app
 
 media_folder: "assets/img/posts" # Media files will be stored in the repo under images/uploads
 public_folder: "/assets/img/posts" # The src attribute for uploaded media will begin with /images/uploads
