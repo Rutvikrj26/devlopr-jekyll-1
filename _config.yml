@@ -53,30 +53,30 @@ author_education_details:
 author_project_details:
               - project_thumbnail: farm.png
                 project_title: Wind Farm Design Using ALM Technique
-                project_description: The main Aim of the Project is to reduce the computational Cost involved in Wind Farm Design. There are two phases of the Project, First one involved gaining in depth, knowledge of the Wind Turbine Design, that completed early in the April. The second part is simulating one Wind Turbine using Actuator Line modelling Technique in Ansys Fluent. This is accomplished by using Ansys User Define Functions. This is almost Finished. Once validation completes, We will move on to Checking several Wind turbine arrangements for the Wind Farm Design. Using ALM Technique, it would be possible to simulate the Wind Farm in a considerable amount of time and computational power. One of the main aim of the Project was also to setup a framework to start the process of Low cost computational design for Wind Farm.
+                project_description: The main Aim of the Project is to reduce the computational Cost involved in Wind Farm Design. Read More in my Blogs 
                 project_url: https://consultrjtech.tk/contact
                 visibility: true
               - project_thumbnail: biodiesel.png
                 project_title: Design package for Mini-Biodiesel Reactor
-                project_description: Our main goal in this project was to produce a design package(both software and hardware). A mathematical model with the variables time, amount of reactants and amount of catalyst was developed. The model was then coded using Matlab and Python(Open Sourced) to optimize the values of variables.Further, a gneneral Reactor design was taken and modified customly for our specific purpose. Then a Cost-Benefit analysis was also performed to ease the Manufacturing and reduce the overall cost.
+                project_description: Our main goal in this project was to produce a design package(both software and hardware). Read More in Blogs
                 project_url: https://consultrjtech.tk/contact
                 visibility: true
               - project_thumbnail: furnace.png
                 project_title: Optimising Furnace Design for Hemispherical Furnace  
-                project_description: This project mainly focuses on the development of a better, more efficient, more ergonomic and cost-efficient Furnace. A mathematical Model was created based on the physical working of the Furnace and then the coded version of the model in Matlab was used to optimize the design parameters.
+                project_description: This project mainly focuses on the development of a better, more efficient, more ergonomic and cost-efficient Furnace. Read more in my blogs
                 project_url: https://consultrjtech.tk/contact
                 visibility: true
               - project_thumbnail: transmission.png
                 project_title: Designing of a Formula Student Car's Transmission Box  
-                project_description: This project was a part of my responsiblities as a junior engineer in Powertrain Department at Axlr8r Formula Racing - FSAE Club of IIT Delhi. A thorough study regarding the benefits and the issues of using several differnt transimissions were originally considered, after which followed an intense period of iterating through several design variables and finally defended my single stage planetary design to our Mentors(Professors). All the Design computations were performed using Ansys Static Structural and Rigid Body Dynamics Module. The lubricants were chosen from several possible options depending on the oil properties and added custom Extreme Pressure additives formulated by me in guidance of our Company partner.
+                project_description: This project was a part of my responsiblities as a junior engineer in Powertrain Department at Axlr8r Formula Racing - FSAE Club of IIT Delhi. Read more in Blogs.
                 project_url: https://consultrjtech.tk/contact
                 visibility: true
               - project_thumbnail: modelling.png
                 project_title: vehicle Modelling in Matlab using Simulink - Simscape Toolbox  
-                project_description: Earlier, for Designing our gear ratio, we depended on an open source Toolbox, which to say was not accurate. I pioneered and developed the vehicle modelling workflow for the first time. Though I faced several challenges while learning the toolbox, I would like to thank greatly, the free simscape toolbox introduction and demo vehicel modelling series. They did help me a lot in accomplishing the task at hand in stipulated time and with a considerably good efficeincy. This also led to further developments in Understanding of our motors and Motor Controllers at a more fundamental level giving us specific key insisghts into their performance and limits.
+                project_description: This Project was focused on creating a Model for XLR-17 in Matlab.
                 project_url: https://consultrjtech.tk/contact
                 visibility: true
-                                
+
 # social links
 twitter_username: rutvikrj26
 github_username:  Rutvikrj26
