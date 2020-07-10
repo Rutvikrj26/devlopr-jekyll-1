@@ -1,15 +1,15 @@
 {
-  "name": "devlopr-jekyll",
-  "homepage": "https://github.com/sujaykundu777/devlopr-jekyll",
+  "name": "Rutvik Solanki",
+  "homepage": "https://rutvik-solanki.ml",
   "authors": [
-    "sujaykundu777 <sujaykundu777@gmail.com>"
+    "Rutvik Solanki <rutvikrj26@gmail.com>"
   ],
-  "description": "A Jekyll Theme Built For Developers",
+  "description": "A Personal website of a Mechanical Engineer",
   "main": "",
   "keywords": [
-    "jekyll-theme",
-    "jekyll",
-    "gallery"
+    "Rutvik Solanki",
+    "Rutvik",
+    "Solanki"
   ],
   "license": "MIT",
   "ignore": [
