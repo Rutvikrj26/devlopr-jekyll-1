@@ -1,28 +1,22 @@
 ---
 layout: post
 author: Rutvik Solanki
-title: This is my First Post
-date: 2020-07-09T17:20:15.849Z
-thumbnail: /assets/img/posts/code.jpg
-category: This is in Trial Category
-summary: Hello World ! This is a sample post
+title: Intro to the Mechanical Engineering
+date: 2020-07-10T06:03:58.530Z
+thumbnail: /assets/img/posts/mechanical_engineering.jpeg
+category: Mechanical Engineering
+summary: This Post gives an Idea about what a Mecchanical Engineer studies in
+  the four years of his Bachelor's degree and explores what are the so called
+  "Scopes " of a Mechanical Egineer.
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Mechanical Engineering is a very vast field in the sense that it covers, Designing, Manufacturing, and Maintenance of almost all the physical products visible to us. It ranges from ancient art such as carpentry and blacksmith to modern additive manufacturing technologies. Manufacturing is but only one side of Mechanical Engineering. Design is the other side of the coin. All the subdomains of Engineering such as Mechanical, Electrical, Computer, etc are highly linked to each other and very often, an improvement in one demands an improvement in others.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+The Initial two years of a Bachelor's degree in Mechanical Engineering go into discovering several topics ranging from solid and Fluid Mechanics to Dynamics of motion. These topics try to give a basic understanding of all the possible streams that a student can choose to specialize in. After gaining the basics of all the topics, students get a chance to explore the interest of his topics by choosing several higher-level courses in his field. 
 
-Jekyll also offers powerful support for code snippets:
+The topics discussed in the first two years are the topics established in the field very early. The third and fourth year of the Mechanical Engineering focuses on fairly advanced topics that are discovered in recent history. these topics include Design Principles, Operations management, Control theory, etc. These topics provide relevant skills to the student in the current Industrial scenario. These are still just the tip of the iceberg but, these courses make the base platform that helps you build further knowledge on it, 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+You are then expected to put these courses to use in your Final B.Tech Project and produce some good quality products or gain good research experience.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+This was a short snapshot of what academic study you get in Mechanical Engineering.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Adios, Amigo.
