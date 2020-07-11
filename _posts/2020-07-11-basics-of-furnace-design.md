@@ -4,7 +4,7 @@ author: Rutvik Solanki
 title: "Basics of Furnace Design "
 date: 2020-07-11T11:33:43.004Z
 thumbnail: /assets/img/posts/furnace.png
-category: Furnace Design
+category: Furnace
 summary: This article provides a basic intro into the equations used for
   optimizing the furnace design. These include thermal resistance equations,
   energy equations and mass flow rate equations.
