@@ -49,4 +49,4 @@ Coefficient.
 
 to get the solutions for the temperature.
 
-The Full set of Equations used to create a mathematical model is written in the next article.
+For more detailed info about the project, contact me.
