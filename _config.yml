@@ -14,7 +14,7 @@ urls:
     - text: Gallery
       url: /gallery
     - text: Hire Me
-      url : /shop
+      url : https://consultrjtech.tk/contact
     - text: Contact Me
       url : /contact
 
