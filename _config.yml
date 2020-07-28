@@ -13,8 +13,6 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Startup
-      url : https://consultrjtech.tk/
     - text: Contact Me
       url : /contact
 
@@ -115,11 +113,11 @@ show_author_project_details: true
 
 # algolia search
 algolia:
-  application_id: D9WA1YKTRQ
+  application_id: VJGY3EXEMT
   index_name: blog_posts # You can replace that with whatever name you want
   files_to_exclude: []
   nodes_to_index: 'article'
-  search_only_api_key: 58ffdd7cd6c45ec1577a7fcd789b1b9a
+  search_only_api_key: e2577454c8cf1f87711b970dcc14e5f8
 
 # pagination of posts
 paginate: 4
