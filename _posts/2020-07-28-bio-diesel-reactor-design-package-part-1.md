@@ -15,8 +15,7 @@ using non-edible oils and producing Bio-diesel actually puts us in a cycle where
 CO2 by burning Bio-Diesel and at the same time, we need to grow trees for producing
 oils(edible/non-edible).Bio-diesel is free from sulphur (as it is derived from vegetable oils) and its use substantially reduces the emissions of SO2 and aromatics as well. Even on blending with mineral diesel, bio-diesel significantly reduces emissions.
 
-![Sustainable chain](/assets/img/posts/sustainable.jfif "Sustainable chain of Biodiesel")
-
+![Sustainable chain](/assets/img/posts/sustainable.jpg "Sustainable chain of Biodiesel")
 
 Currently, there are various options for sustainable energy sources but developing them
 would require a setup of totally new technology and infrastructure which would cost high
