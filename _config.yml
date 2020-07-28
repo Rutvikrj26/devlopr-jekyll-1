@@ -13,7 +13,7 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Hire Me
+    - text: startup
       url : https://consultrjtech.tk/contact
     - text: Contact Me
       url : /contact
@@ -54,27 +54,27 @@ author_project_details:
               - project_thumbnail: farm.png
                 project_title: Wind Farm Design Using ALM Technique
                 project_description: The main Aim of the Project is to reduce the computational Cost involved in Wind Farm Design. Read More in my Blogs 
-                project_url: https://consultrjtech.tk/contact
+                project_url: https://rutvik-solanki.ml/contact
                 visibility: true
               - project_thumbnail: biodiesel.png
                 project_title: Design package for Mini-Biodiesel Reactor
                 project_description: Our main goal in this project was to produce a design package(both software and hardware). Read More in Blogs
-                project_url: https://consultrjtech.tk/contact
+                project_url: https://rutvik-solanki.ml/contact
                 visibility: true
               - project_thumbnail: furnace.png
                 project_title: Optimising Furnace Design for Hemispherical Furnace  
                 project_description: This project mainly focuses on the development of a better, more efficient, more ergonomic and cost-efficient Furnace. Read more in my blogs
-                project_url: https://consultrjtech.tk/contact
+                project_url: https://rutvik-solanki.ml/contact
                 visibility: true
               - project_thumbnail: transmission.png
                 project_title: Designing of a Formula Student Car's Transmission Box  
                 project_description: This project was a part of my responsiblities as a junior engineer in Powertrain Department at Axlr8r Formula Racing - FSAE Club of IIT Delhi. Read more in Blogs.
-                project_url: https://consultrjtech.tk/contact
+                project_url: https://rutvik-solanki.ml/contact
                 visibility: true
               - project_thumbnail: modelling.png
                 project_title: vehicle Modelling in Matlab using Simulink - Simscape Toolbox  
                 project_description: This Project was focused on creating a Model for XLR-17 in Matlab.
-                project_url: https://consultrjtech.tk/contact
+                project_url: https://rutvik-solanki.ml/contact
                 visibility: true
 
 # social links
@@ -147,12 +147,12 @@ collections:
  - products
 
 # Gallery
-defaults:
+#defaults:
   -
-    scope:
-      path: "gallery"
-    values:
-      permalink: /:path/:basename:output_ext
+#    scope:
+#      path: "gallery"
+#    values:
+#      permalink: /:path/:basename:output_ext
 
 # Build settings
 plugins:
