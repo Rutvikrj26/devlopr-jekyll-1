@@ -13,8 +13,8 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: startup
-      url : https://consultrjtech.tk/contact
+    - text: Startup
+      url : https://consultrjtech.tk/
     - text: Contact Me
       url : /contact
 
@@ -147,12 +147,12 @@ collections:
  - products
 
 # Gallery
-#defaults:
+defaults:
   -
-#    scope:
-#      path: "gallery"
-#    values:
-#      permalink: /:path/:basename:output_ext
+    scope:
+      path: "gallery"
+    values:
+      permalink: /:path/:basename:output_ext
 
 # Build settings
 plugins:
